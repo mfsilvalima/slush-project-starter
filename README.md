@@ -1,2 +1,2 @@
 # slush-project-starter
-slush to generate boilerplate
+Generate a simple web project using Gulp and Bootstrap

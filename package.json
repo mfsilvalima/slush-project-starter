@@ -1,0 +1,25 @@
+{
+  "name": "slush-project-starter",
+  "version": "0.1.0",
+  "description": "Generate a simple web project using Gulp and Bootstrap",
+  "main": "slushfile.js",
+  "keywords": [
+    "slushgenerator",
+    "project-starter",
+    "starter",
+    "boilerplate",
+    "kick start",
+    "gulp"
+  ],
+  "dependencies": {
+    "gulp": "~3.5.6",
+    "gulp-template": "~0.1.1",
+    "gulp-install": "~0.1.1",
+    "gulp-conflict": "~0.1.1",
+    "gulp-rename": "~1.2.0",
+    "underscore.string": "~2.3.3",
+    "inquirer": "~0.4.1"
+  },
+  "author": "Mateus Fernandes",
+  "license": "MIT"
+}
