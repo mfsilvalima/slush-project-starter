@@ -1,14 +1,14 @@
 {
-  "name": "project-starter",
-  "version": "1.0.0",
-  "description": "gulpfile for personal and professional use",
+  "name": "<%= appNameSlug %>",
+  "version": "<%= appVersion %>",
+  "description": "<%= appDescription %>",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "git@github.com:mfsilvalima/project-starter.git"
+    "type": "<%= appAuthor %>",
+    "url": "<%= appEmail %>"
   },
   "author": "Mateus Fernandes",
   "license": "ISC",
